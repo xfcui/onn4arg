@@ -6,7 +6,7 @@ ONN4ARG is an Ontology-aware Neural Network model for Antibiotic Resistance Gene
 
 ./predict.sh FASTA_fileprefix
 
-The program will take "FASTA_fileprefix.fasta" as input and store the predicted annotations in "FASTA_fileprefix.out". Moreover, it depends on the [Diamond](https://github.com/bbuchfink/diamond) and HHblits (https://github.com/soedinglab/hh-suite) alignment tools and the our pre-built ARG database.
+The program will take "FASTA_fileprefix.fasta" as input and store the predicted annotations in "FASTA_fileprefix.out". Moreover, it depends on the [Diamond](https://github.com/bbuchfink/diamond) and [HHblits](https://github.com/soedinglab/hh-suite) alignment tools and the our pre-built ARG database.
 
 
 
